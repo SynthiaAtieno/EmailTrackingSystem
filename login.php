@@ -41,7 +41,7 @@ if(mysqli_num_rows($result)>0){
     <title>Login</title>
 </head>
 <body>
-<?php echo json_encode($_SERVER);?>
+
   <div class="card">
     
     <form action="login.php" method="post">
