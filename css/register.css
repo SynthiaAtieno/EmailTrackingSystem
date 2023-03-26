@@ -1,0 +1,49 @@
+  *{
+    box-sizing: border-box;
+  }
+
+  body{
+    background-image: url(../dashboard/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  form {
+    width: 500px;
+    padding: 3%;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+  }
+  
+  form div {
+    margin-top: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"], input[type="email"], input[type="password"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
