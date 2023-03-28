@@ -8,5 +8,5 @@ is a php system that helps you track your emails.
 <img src="images/pending.png" />
 <img src="images/replied.png" />
 <img src="images/completed.png" />
-<img src="simages/new record.png" />
+<img src="images/new record.png" />
   </p>
