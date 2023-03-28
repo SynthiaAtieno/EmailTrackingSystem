@@ -101,9 +101,9 @@ else{
                     </div>
                     <div class="card-body">
                       Search:&nbsp;<input class="mb-4" type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for requests..">
-                        <table class="table table-bordered text-center table-striped" id="myTable">
+                        <table class="table text-center table-striped" id="myTable">
                             <tr>
-                                <td class="fw-bold">Request Id</td>
+                                <td class="fw-bold">Id</td>
                                 <td class="fw-bold">Request</td>
                                 <td class="fw-bold">Request By</td>
                                 <td class="fw-bold">Body</td>
